@@ -1,0 +1,11 @@
+c:\users\windows 10\source\repos\Bus Ticket Calculator\Bus Ticket Calculator\bin\Debug\Bus Ticket Calculator.exe.config
+c:\users\windows 10\source\repos\Bus Ticket Calculator\Bus Ticket Calculator\bin\Debug\Bus Ticket Calculator.exe
+c:\users\windows 10\source\repos\Bus Ticket Calculator\Bus Ticket Calculator\bin\Debug\Bus Ticket Calculator.pdb
+c:\users\windows 10\source\repos\Bus Ticket Calculator\Bus Ticket Calculator\obj\Debug\Bus Ticket Calculator.csprojResolveAssemblyReference.cache
+c:\users\windows 10\source\repos\Bus Ticket Calculator\Bus Ticket Calculator\obj\Debug\Bus_Ticket_Calculator.Main.resources
+c:\users\windows 10\source\repos\Bus Ticket Calculator\Bus Ticket Calculator\obj\Debug\Bus_Ticket_Calculator.Properties.Resources.resources
+c:\users\windows 10\source\repos\Bus Ticket Calculator\Bus Ticket Calculator\obj\Debug\Bus Ticket Calculator.csproj.GenerateResource.Cache
+c:\users\windows 10\source\repos\Bus Ticket Calculator\Bus Ticket Calculator\obj\Debug\Bus Ticket Calculator.csproj.CoreCompileInputs.cache
+c:\users\windows 10\source\repos\Bus Ticket Calculator\Bus Ticket Calculator\obj\Debug\Bus Ticket Calculator.exe
+c:\users\windows 10\source\repos\Bus Ticket Calculator\Bus Ticket Calculator\obj\Debug\Bus Ticket Calculator.pdb
+c:\users\windows 10\source\repos\Bus Ticket Calculator\Bus Ticket Calculator\obj\Debug\Bus_Ticket_Calculator.Login.resources
